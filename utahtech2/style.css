@@ -1,6 +1,6 @@
 body{
     background-color: #FFFFFF;
-    text-decoration-color: #666666;
+    color: #666666;
     font: Verdana;
     font: Arial;
     font-family: sans-serif;
@@ -8,7 +8,7 @@ body{
 
 header{
     background-color: #003058;
-    text-decoration-color: #FFFFFF;
+    color: #FFFFFF;
     font: Georgia;
     font-family: serif;
 }
@@ -24,18 +24,18 @@ nav{
 }
 
 header h2{
-    text-decoration-color: #424242;
+    color: #424242;
     font: Georgia;
     font-family: sans-serif;
 }
 
 dt{
-    text-decoration-color: #003058;
+    color: #003058;
     font-weight: bold;
 }
 
 .ut{
-    text-decoration-color: #BA1C21;
+    color: #BA1C21;
     font-weight: bold;
 }
 
