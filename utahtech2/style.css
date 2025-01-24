@@ -1,16 +1,13 @@
 body{
     background-color: #FFFFFF;
     color: #666666;
-    font: Verdana;
-    font: Arial;
-    font-family: sans-serif;
+    font-family: Verdana, Arial, sans-serif;
 }
 
 header{
     background-color: #003058;
     color: #FFFFFF;
-    font: Georgia;
-    font-family: serif;
+    font-family: Georgia, serif;
 }
 
 header h1{
@@ -25,8 +22,7 @@ nav{
 
 header h2{
     color: #424242;
-    font: Georgia;
-    font-family: sans-serif;
+    font-family: Georgia, serif;
 }
 
 dt{
@@ -42,7 +38,7 @@ dt{
 footer{
     font-size: .70rem;
     font-style: italic;
-    font-display: center;
+    text-align: center;
 }
 
 #wrapper{
