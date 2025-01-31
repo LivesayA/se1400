@@ -59,5 +59,14 @@ footer{
     background-image: url("../images/studenthero.jpg");
     background-position: center;
     background-size: cover;
+    background-clip: content-box;
+    height: 200px;
+}
+
+#facultyhero {
+    background-image: url("../images/facultyhero.jpg");
+    background-position: center;
+    background-size: cover;
+    background-clip: content-box;
     height: 200px;
 }
