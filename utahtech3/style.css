@@ -48,9 +48,9 @@ footer{
 }
 
 #homehero {
-    width: 100%;
-    height: 100%;
-    background-image: url("../homehero.jpg");
-    background-size: cover;
+    background-image: url("../images/homehero.jpg");
     background-position: center;
+    background-size: cover;
+    background-clip: content-box;
+    height: 150px;
 }
