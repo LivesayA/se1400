@@ -54,3 +54,10 @@ footer{
     background-clip: content-box;
     height: 150px;
 }
+
+#studenthero {
+    background-image: url("../images/studenthero.jpg");
+    background-position: center;
+    background-size: cover;
+    height: 200px;
+}
