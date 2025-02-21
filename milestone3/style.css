@@ -1,0 +1,42 @@
+.parent{
+    display: grid;
+    grid-template-columns: minmax(0px,1fr) repeat(6,minmax(0,175px)) minmax(0px,1fr);
+    min-height: 100vh;
+    height: 100%;
+}
+
+.grid-item{
+    min-height: 50px;
+    opacity: 50%;
+    background-color: rgba(255,255,255,0.3);
+}
+
+.header{
+    grid-area: 1/2/2/8;
+    background-color: rgba(172,57,57,50);
+}
+
+.left-side{
+    grid-area: 1/2/7/3;
+    background-color: orange;
+}
+
+.right-side{
+    grid-area: 1/7/7/8;
+    background-color: yellow;
+}
+
+.footer{
+    grid-area: 6/2/7/8;
+    background-color: yellowgreen;
+}
+
+.top-block{
+    grid-area: 2/2/4/9;
+    background-color: blue;
+}
+
+.bottom-block{
+    grid-area: 4/2/6/9;
+    background-color: green;
+}
