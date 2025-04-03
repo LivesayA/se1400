@@ -4,7 +4,7 @@ body{
     background-color: #FFFFFF;
     color: #666666;
     font-family: Verdana, Arial, sans-serif;
-    background-image: linear-gradient(to-bottom, #eeeeee, #ffffff);
+    background-image: linear-gradient(to bottom, #eeeeee, #ffffff);
     background-attachment: fixed;
     padding-right: 2rem;
     padding-left: 2rem;
