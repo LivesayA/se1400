@@ -16,11 +16,11 @@ header{
 
 header h1{
     line-height: 140%;
-    padding: .5rem;
     background-image: url("../images/utahtechlogo.svg");
     background-position: right;
     background-repeat: no-repeat;
-    padding: 1em;
+    padding-left: 1em;
+    padding: .5rem;
     background-origin: content-box;
     margin-bottom: 0;
 }
@@ -28,10 +28,10 @@ header h1{
 nav{
     background-color: #F3F3F3;
     font-weight: bold;
-    padding-top: 0.2rem;
-    padding-bottom: 0.2rem;
-    padding-right: 0.2rem;
-    padding-left: 2rem;
+    padding-top: 0.5rem;
+    padding-bottom: 0.5rem;
+    padding-right: 0.5rem;
+    padding-left: 0.5rem;
 }
 
 nav a{
@@ -61,6 +61,7 @@ footer{
     font-size: .70rem;
     font-style: italic;
     text-align: center;
+    padding: 1rem;
 }
 
 #wrapper{
